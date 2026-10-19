@@ -1,0 +1,6 @@
+codigo,nombre,categoria,precio,stock,stock_minimo,valor_inventario
+PROD-001,Arroz,Granos,4500,25,5,112500
+PROD-002,Leche,Lácteos,3800,4,10,15200
+PROD-003,Huevos,Avícola,16000,15,5,240000
+PROD-004,Aceite,Aceites,9500,8,5,76000
+PROD-005,Azúcar,Granos,4200,3,8,12600

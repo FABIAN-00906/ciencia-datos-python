@@ -1,0 +1,3 @@
+codigo,nombre,categoria,precio,stock,stock_minimo
+PROD-002,Leche,Lácteos,3800,4,10
+PROD-005,Azúcar,Granos,4200,3,8
